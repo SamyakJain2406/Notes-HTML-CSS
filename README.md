@@ -28,6 +28,6 @@ Contributions are welcome! Please feel free to submit pull requests or issues.
 License:
 [Specify the license you're using, e.g., MIT, Apache]
 
-Screenshots: C:\Users\Lenovo\Desktop\github repo\Notes-HTML-CSS\Screenshot (220).png
+Screenshots: https://github.com/SamyakJain2406/Notes-HTML-CSS-JavaScript/blob/f2e5fb094cd4d8c3a021cefd9bc43ff4d5aea1e7/Screenshot%20(220).png
 =======
 >>>>>>> 1f063367ad375c1808cf61166c463d3692df906e
