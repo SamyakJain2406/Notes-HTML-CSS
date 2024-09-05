@@ -1,5 +1,6 @@
 # Notes-HTML-CSS
  Notes Web Page Using Html_Css
+<<<<<<< HEAD
  A simple web application that allows users to create, edit, and delete notes.
 
 Technologies Used:
@@ -28,3 +29,5 @@ License:
 [Specify the license you're using, e.g., MIT, Apache]
 
 Screenshots: C:\Users\Lenovo\Desktop\github repo\Notes-HTML-CSS\Screenshot (220).png
+=======
+>>>>>>> 1f063367ad375c1808cf61166c463d3692df906e
